@@ -19,6 +19,11 @@ body {
 }
 
 /* /// LAYOUT /// */
+header {
+  position: relative;
+  height: 35vh;
+  border-bottom: 7px solid #eee;
+}
 
 main {
   height: 65vh;
